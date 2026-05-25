@@ -1,0 +1,20 @@
+{
+  "name": "RavenHawk Scheduled Posts",
+  "slug": "rht-scheduled-posts",
+  "version": "2.0.1",
+  "release_title": "RavenHawk Scheduled Posts v2.0.1",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-upcoming-scheduled-posts/releases/download/rht-scheduled-posts-v2.0.1/rht-scheduled-posts.zip",
+  "homepage": "https://github.com/RavenHawkTech/wordpress-upcoming-scheduled-posts",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-26",
+  "author": "RavenHawkTech",
+  "author_profile": "https://ravenhawktech.com",
+  "sha256": "c296be17e578e30768b0e15f6c0cb3509d02fd84f3459d5d6a67ffc327a3c934",
+  "sections": {
+    "description": "Displays upcoming scheduled WordPress posts with admin shortcode reference and editable frontend styles. Visit https://ravenhawktech.com for RavenHawkTech.",
+    "installation": "Upload the plugin ZIP in WordPress and activate it. Open RavenHawkTech → Scheduled Posts to view the shortcode and configure frontend styles.",
+    "changelog": "<h4>2.0.1</h4><ul><li>Removed shortcode display from plugin list.</li><li>Added RavenHawkTech admin grouping.</li><li>Added shortcode reference page.</li><li>Added editable style settings.</li></ul>"
+  }
+}
