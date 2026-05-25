@@ -63,7 +63,7 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ SECURITY.md
 ├─ COPYRIGHT.md
 ├─ releases/
-│  └─ rht-scheduled-posts.zip
+│  └─ ravenhawktech-scheduled-posts.zip
 ├─ screenshots/
 │  ├─ README.md
 │  ├─ scheduled-posts-admin-settings.png
