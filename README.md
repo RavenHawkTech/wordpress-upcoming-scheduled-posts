@@ -21,6 +21,16 @@ This repository contains the RavenHawk Scheduled Posts plugin package, update ma
 - Editable frontend style controls
 - GitHub manifest-based update metadata
 
+## Screenshots
+
+### Admin Settings
+
+![RavenHawk Scheduled Posts admin settings](screenshots/scheduled-posts-admin-settings.png)
+
+### Frontend Preview
+
+![RavenHawk Scheduled Posts frontend preview](screenshots/scheduled-posts-frontend-preview.png)
+
 ## Shortcode
 
 ```text
@@ -55,7 +65,9 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ releases/
 │  └─ rht-scheduled-posts.zip
 ├─ screenshots/
-│  └─ README.md
+│  ├─ README.md
+│  ├─ scheduled-posts-admin-settings.png
+│  └─ scheduled-posts-frontend-preview.png
 └─ updates/
    └─ rht-scheduled-posts.json
 ```
